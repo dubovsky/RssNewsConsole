@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNews\RssNews\obj\Debug\RssNews.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNews\RssNews\obj\Debug\RssNews.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNews\RssNews\bin\Debug\RssNews.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNews\RssNews\bin\Debug\RssNews.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNews\RssNews\bin\Debug\RssNews.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNews\RssNews\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNews\RssNews\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNews\RssNews\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNews\RssNews\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNews\RssNews\obj\Debug\RssNews.csproj.CopyComplete
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNews\RssNews\obj\Debug\RssNews.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNews\RssNews\obj\Debug\RssNews.pdb
